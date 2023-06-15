@@ -1,0 +1,1 @@
+This react project is a basic model of the react project which gives us a basic understanding of the react frame work.
